@@ -1,0 +1,19 @@
+{
+  "headers": {},
+  "body": {
+    "event_key": "issue_create",
+    "user": {
+      "name": "Daniel André",
+      "username": "zegenie"
+    },
+    "project": {
+      "name": "The Bug Genie",
+      "url": "http://issues.thebuggenie.com/thebuggenie"
+    },
+    "issue": {
+      "id": 123,
+      "title": "Example issue",
+      "url": "http://issues.thebuggenie.com/thebuggenie/issues/123"
+    }
+  }
+}
